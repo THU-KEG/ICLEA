@@ -195,4 +195,4 @@ If you use ICLEA, please cite:
 
 ## Acknowledgements
 
-Special thanks to [Haoyun Hong](https://github.com/HaoyunHong) for his generous help during the early stages of the ICLEA project.
+Special thanks to [Haoyun Hong](https://github.com/HaoyunHong) for her generous help during the early stages of the ICLEA project.
