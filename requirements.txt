@@ -1,0 +1,5 @@
+# Install PyTorch 1.8.0 with CUDA 11.1 through conda first; see README.md.
+faiss-cpu==1.7.0
+numpy==1.19.2
+pandas==1.2.5
+tqdm==4.32.1

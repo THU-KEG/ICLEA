@@ -1,0 +1,14 @@
+name: iclea-py37
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.7.9
+  - pip
+  - pytorch=1.8.0
+  - cudatoolkit=11.1
+  - pip:
+      - faiss-cpu==1.7.0
+      - numpy==1.19.2
+      - pandas==1.2.5
+      - tqdm==4.32.1
